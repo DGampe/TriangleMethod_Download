@@ -49,9 +49,5 @@ see lsttm for additional information.
 }
 
 }
-
-\examples{
-
-}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
