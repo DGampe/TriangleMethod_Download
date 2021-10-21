@@ -40,9 +40,10 @@ see lstetm for additional information.
 }
 
 }
-\value{
-RasterLayer, .tif file
-}
+
+#\value{
+#RasterLayer, .tif file
+#}
 
 
 \examples{
