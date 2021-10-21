@@ -1,2 +1,2 @@
 export(crop.ras, grid.plot, lstetm, lsttm, ndvi,ndvi.file,ndvilst.plot,triangle,sun.zen,Doy2Day)
-import(raster,sp,rgdal,lattice, RAtmosphere, proj4)
+import(raster,sp,rgdal,lattice, GeoLight, proj4)
