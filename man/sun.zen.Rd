@@ -4,7 +4,7 @@
 \title{
 Calculate the solar zenit angle from raster.}
 \description{
-This function will return the mean solar zenit angle for a given input raster with a given projection. Based on the SZA function (package RAtmosphere). Function will convert the coordinates to WGS 84 Lat Lon and use the mean longitude and latitude for the calculation of the solar zenit angle.
+This function will return the mean solar zenit angle for a given input raster with a given projection. Based on the zenith function (package GeoLight). Function will convert the coordinates to WGS 84 Lat Lon and use the mean longitude and latitude for the calculation of the solar zenit angle.
 }
 \usage{
 sun.zen(ras,time)
