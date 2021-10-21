@@ -50,10 +50,6 @@ see lsttm for additional information.
 
 }
 
-#\value{
-#RasterLayer, .tif file
-#}
-
 \examples{
 
 }
