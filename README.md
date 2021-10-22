@@ -14,3 +14,7 @@ The R-package can be installed in R using:
 ```r
 remotes::install_github("DGampe/TriangleMethod")
 ````
+and then sourced in R as
+```r
+library(TriangleMethod)
+````
