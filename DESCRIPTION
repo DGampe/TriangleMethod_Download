@@ -2,7 +2,7 @@ Package: TriangleMethod
 Type: Package
 Title: Calculation of NDVI, LST and finally provide an estimation for
         actual evapotranspiration patterns using remote sensing data (default LANDSAT TM and ETM+ scenes).
-Version: 0.1.0
+Version: 1.0.0
 Author: David Gampe, Verena Huber Garcia, Benjamin Müller, Philip Marzahn
 Maintainer: David Gampe <david.gampe@googlemail.com>
 Description: The Triangle Method (Jiang & Islam, 1999) approach provides
@@ -18,4 +18,4 @@ Description: The Triangle Method (Jiang & Islam, 1999) approach provides
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Depends: sp,rgdal,lattice,raster,GeoLight,proj4
+Depends: sp,rgdal,lattice,raster,proj4
